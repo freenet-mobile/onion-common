@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.desyncr</groupId>
     <artifactId>onion-common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
     <url>https://github.com/desyncr/onion-common</url>
     <build></build>
